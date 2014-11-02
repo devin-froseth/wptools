@@ -8,3 +8,8 @@ javascript:E=0,P=0,T=document.getElementsByTagName("TABLE")[0];function C(s){ret
 **. If you don't use this as a favorite, you might have to retype "javascript:"
     at the beginning of the code because IE removes it when you paste the code
     in the address bar.
+    
+Instructions
+============
+1. Go to CIS -> Academics -> Any gradebook of your choice
+2. Copy and paste the code above into the address bar and press enter.**
